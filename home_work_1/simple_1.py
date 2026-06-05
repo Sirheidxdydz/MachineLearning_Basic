@@ -1,4 +1,4 @@
-print('=' * 13 + "<Number sum>" + '=' * 13)
+print('=' * 14 + "<Number sum>" + '=' * 14)
 print("1. Enter some numbers ")
 print("2. At the end of the input enter any symbol \n")
 
